@@ -1,6 +1,7 @@
 Image Steganography
 ===================
 
+This project is a very useful and informative.
 A command-line interface based program for Image Steganography.<br>
 It uses Least Significant Bit(LSB) algorithm for Image Steganography.
 
